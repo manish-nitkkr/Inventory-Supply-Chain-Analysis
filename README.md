@@ -6,6 +6,10 @@ This project analyzes inventory and supply chain data to understand inventory le
 
 The project follows an end-to-end data analysis workflow using Python, MySQL, and Power BI.
 
+## Power BI Dashboard
+
+![Inventory & Supply Chain Dashboard](Inventory_Dashboard.png)
+
 ## Business Problem
 
 Inventory and supply chain operations need to balance product demand, inventory availability, warehouse capacity, and order performance.
